@@ -1,0 +1,3 @@
+# 忽略 .vscode 目錄
+.vscode
+__pycache__/
